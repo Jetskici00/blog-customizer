@@ -1,4 +1,5 @@
 # Проектная работа: Вёрстка проекта
+![blog_customizer](https://github.com/Jetskici00/blog-customizer/assets/94981434/77298ef3-39e4-4b35-bb30-b3ef8fdc868f)
 
 ## Шаг первый. Изучаем имеющиеся компоненты
 
